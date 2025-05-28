@@ -23,9 +23,9 @@ This repository provides a small Python-based wrapper to simplify running GATK M
 
 ### Optional arguments
 
-* `-N`, `--normal_bam`: Path to the normal BAM (tumor-normal mode)
-* `--tumor_sample`: Tumor sample name label
-* `--normal_sample`: Normal sample name label
+* `-N`, `--normal_bam`: Path to the normal BAM (tumor-normal mode) (Required for somatic varient mode)
+* `--tumor_sample`: Tumor sample name label 
+* `--normal_sample`: Normal sample name label (Required if -N is passed in)
 * `--germline_resource`: Germline resource VCF for allele frequencies
 * `--panel_of_normals`: Panel-of-normals VCF
 * `-L`, `--intervals`: BED file or intervals string
