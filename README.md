@@ -114,7 +114,7 @@ https://storage.googleapis.com/gcp-public-data--broad-references/hg38/v0/exome_c
 
 ## References
 
-- GATK Mutect2 documentation  
+**GATK Mutect2 documentation**
 https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2
 
 ---
