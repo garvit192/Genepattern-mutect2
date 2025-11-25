@@ -94,9 +94,9 @@ If **disabled**, Mutect2 runs a single job across all regions.
 
 https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/NYGC_Illumina-WGS_20231023/
 
-**Reference Genome: GRCh38 assembly (GCF_000001405.26) from NCBI Datasets:**
+**Reference Genome: hg38 assembly:**
 
-https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.26/
+"https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz"
 
 **Germline Resource**
 
@@ -114,7 +114,7 @@ https://storage.googleapis.com/gcp-public-data--broad-references/hg38/v0/exome_c
 
 ## References
 
-- GATK Mutect2 documentation  
+**GATK Mutect2 documentation**
 https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2
 
 ---
