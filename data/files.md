@@ -8,3 +8,14 @@ https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss
 
 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.26/
 
+## Germline Resource
+
+https://storage.googleapis.com/gcp-public-data--broad-references/hg38/v0/somatic-hg38/af-only-gnomad.hg38.vcf.gz
+
+## Pannel of Normals
+
+https://storage.googleapis.com/gatk-best-practices/somatic-hg38/1000g_pon.hg38.vcf.gz
+
+## Intervals List
+
+https://storage.googleapis.com/gcp-public-data--broad-references/hg38/v0/exome_calling_regions.v1.1.interval_list
